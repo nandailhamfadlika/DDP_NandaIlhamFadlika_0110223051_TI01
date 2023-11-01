@@ -6,7 +6,7 @@ a=0
 while a < len(numbers):
     if (numbers[a] % 2 != 0):
         print(numbers[a])
-    if(numbers[a] == 533):
+    if(numbers[a] == 553):
         break
     a+=1
 
